@@ -6,7 +6,10 @@
     "firebase": "^4.1.5",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+<<<<<<< HEAD
     "react-google-login": "^2.9.2",
+=======
+>>>>>>> 9c95d16f1bedd1dba7506a08c360a96b1d78ec3f
     "react-scripts": "1.0.10",
     "reactfire": "^1.0.0"
   },

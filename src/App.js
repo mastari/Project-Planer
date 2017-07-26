@@ -35,8 +35,8 @@ class App extends Component {
             onFailure={this.responseGoogle}
         />
         <img src={this.state.imageUrl} ></img>
-      </div>
-    );
+        </div>
+      );
   }
 }
 
